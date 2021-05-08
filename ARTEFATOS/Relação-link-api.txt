@@ -1,0 +1,18 @@
+models
+	http://177.86.124.22/tcc/public_html/api/user
+	http://177.86.124.22/tcc/public_html/api/tipo
+	http://177.86.124.22/tcc/public_html/api/modelo
+	http://177.86.124.22/tcc/public_html/api/pessoa
+	http://177.86.124.22/tcc/public_html/api/marca
+	http://177.86.124.22/tcc/public_html/api/local
+	http://177.86.124.22/tcc/public_html/api/veiculo
+
+
+consultas
+	http://localhost/www/tcc/public_html/api/consultas/listamodelo
+	http://localhost/www/tcc/public_html/api/consultas/listamarca
+	http://localhost/www/tcc/public_html/api/consultas/listatipo
+	http://localhost/www/tcc/public_html/api/consultas/listalocal
+	http://localhost/www/tcc/public_html/api/consultas/listaveiculo
+	http://localhost/www/tcc/public_html/api/consultas/listapessoa
+
